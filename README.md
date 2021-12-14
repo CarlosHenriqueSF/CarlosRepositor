@@ -1,5 +1,6 @@
 # Curso Github
 
-![./Imagem.png](Nova Imagem)
+![./Imagem.png]
+
 Treinamento de Git
 
