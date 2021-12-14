@@ -2,5 +2,5 @@
 
 ![./Imagem.png]
 
-Treinamento de Git
+Treinamento de GitHub
 
